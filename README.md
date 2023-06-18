@@ -9,4 +9,4 @@ https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/propos
 ## List
 
 
-- [Month of the year template](./Month of the year template.md) - requires https://github.com/alangrainger/obsidian-google-photos
+- Month of the year template.md - requires https://github.com/alangrainger/obsidian-google-photos
