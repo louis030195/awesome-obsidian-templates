@@ -1,6 +1,4 @@
-#personal 
-Last modified date: 2023-12-03 09:06
-Commit: 20
+
 # Retrospective - {{date}}
 
 Initial goals: link to your current year goals from [[Yearly goal template]]
@@ -15,18 +13,14 @@ Share or publish an artifact from this process with at least one person:
 
 Bring the year to mind. Create memory artifacts that remind you of what happened in the last 12 months.
 
--  What music did you listen to this year? last.fm/user/louis030195 
+-  What music did you listen to this year? last.fm 
 -  What photos did you take? https://photos.google.com
--  What books did you read? https://www.goodreads.com or https://www.notion.so/louis030195/Readwise-9ba0d6289ae748c59f76bec591548c66
+-  What books did you read? https://www.goodreads.com 
 -  What courses did you take? https://brilliant.org
 -  What were your favourite articles, tweets or threads? https://readwise.io/tags/favorite
 -  What were your favourite memories?
 -  Who did you make friends with?
 -  Use [[Month of the year retrospective template]] in a new note - link it here
-- Activities practiced that contributed to [[Mind]]
-- Activities practiced that contributed to [[Philosophy/Humans/Love|Love]]
-- Activities practiced that contributed to [[Health]]
-- Activities practiced that contributed to [[Impact]]
 
 ## 2 Reflect
 
@@ -49,11 +43,7 @@ In this step we’ll go a bit deeper. Start synthesizing insights and connection
 -  Give yourself a 1/10 rating for how satisfied you are with [[Life areas template]]
 -  What areas of your life did you neglect the most this year?
 -  What happened this year that you definitely don’t want to happen next year?
-- Activities that you can start to practice that contributed to [[Mind]]
-- Activities that you can start to practice that contributed to [[Philosophy/Humans/Love|Love]]
-- Activities that you can start to practice that contributed to [[Health]]
-- Activities that you can start to practice that contributed to [[Impact]]
-- Feel free to prompt an LLM with these questions to add a little bit more [[Entropy|entropy]] 
+-  Feel free to prompt an LLM with these questions to add a little bit more entropy
 ## 3 Release
 
 Identify emotionally juicy experiences, events and patterns from the year. Practice letting go of them.
