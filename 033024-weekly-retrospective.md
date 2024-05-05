@@ -47,5 +47,7 @@ Outline your plan for the upcoming week. Consider the following questions to gui
 - **Impact on Others**: How will you positively impact someone else's life next week?
 - **Communication**: Are there any communication challenges you anticipate? How will you address them?
 - **Events and Activities**: Which events will you attend, and which will you skip? How do each of these activities contribute to your goals?
+- **Weekly goals**: What are your 2 goals? (use number and time). Make sure to make these goals easily available in your vision every days (say phone wallpaper). Examples “$2K MRR” or “outreach 50 people”
+
 
 Reflecting weekly helps you stay aligned with your goals, learn from your experiences, and plan for success. Use this template to guide your reflection and planning process.
