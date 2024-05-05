@@ -10,8 +10,15 @@ To begin, review your recent retrospectives to understand your progress and patt
 
 ### 🧠 Brain Dump
 
-Start with a brain dump to clear your mind. Write down everything that's on your mind, without filtering or organizing.
+Start with a brain dump to clear your mind. Write down everything that's on your mind, without filtering or organizing, for 15 min. Feel free to jump plenty of lines to have 100% focus on this brain dump.
 
+---
+
+Advice: use numbers to track your health, learning, professional goals, etc.
+
+>When you can measure what you are speaking about, and express it in numbers, you know something about it, when you cannot express it in numbers, your knowledge is of a meager and unsatisfactory kind; it may be the beginning of knowledge, but you have scarely, in your thoughts advanced to the stage of science.
+>
+>~ Lord Kelvin
 ### 🔍 Looking Back: Last Week
 
 Reflect on the past week. Consider what went well, what could have been better, and any lessons learned.
