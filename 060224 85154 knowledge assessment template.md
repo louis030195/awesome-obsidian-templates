@@ -55,7 +55,7 @@
 
 ## LLM Knowledge Assessment Prompt
 
-Please assess my knowledge in the following areas by asking me approximately 10 questions per specific topic. After each topic, provide a score between 0 and 10 based on my answers, then move on to the next topic.
+Please assess my knowledge in the following areas by asking me approximately 10 questions per specific topic. After each topic, provide a score between 0 and 10 based on my answers, give the user a bullet list of topics he needs to read about, then move on to the next topic.
 
 Please start with the first topic and proceed sequentially. Thank you.
 
