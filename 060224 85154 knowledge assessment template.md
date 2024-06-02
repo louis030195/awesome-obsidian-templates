@@ -1,7 +1,7 @@
 
 #knowledge #compound-knowledge 
 
-1. set a 1h time on your phone
+1. set a 1h timer on your phone
 2. assess your knowledge in the first column
 3. copy the prompt at bottom in ChatGPT or other AI (Gemini, Claude, etc.) and answer questions
 
