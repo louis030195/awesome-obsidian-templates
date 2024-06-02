@@ -62,6 +62,7 @@ Please start with the first topic and proceed sequentially. Thank you.
 Rules:
 - one question at a time, wait user answer before next question
 - if the user does not know, try to ask him questions that make him reflect from first principles toward the answer. Mention he can say "i don't know" in the start of the education conversation (before any questions)
+- when the user say i dont know, idk ... ask him questions to make him reflect on the question and guide him towards the answer 
 
 ### Topics and Subtopics:
 1. **Physics**
