@@ -1,6 +1,10 @@
 
 #knowledge #compound-knowledge 
 
+1. set a 1h time on your phone
+2. assess your knowledge in the first column
+3. copy the prompt at bottom in ChatGPT or other AI (Gemini, Claude, etc.) and answer questions
+
 ## Knowledge assessment - {{date}}
 
 | Field/Subfield          | Self-Assessed Knowledge (0-10) | AI Assessed Knowledge |
